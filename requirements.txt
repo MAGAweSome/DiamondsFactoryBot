@@ -1,0 +1,11 @@
+# This is the requirements file
+# To install all the requirements in the file is to use:
+# pip install -r requirements.txt
+
+discord
+requests
+beautifulsoup4
+Pillow
+opencv-python
+pytesseract
+dotenv
